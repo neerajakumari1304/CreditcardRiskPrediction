@@ -1,0 +1,43 @@
+2025-12-23 17:19:20,441 - INFO - Index(['NPA Statusyeo_trim', 'RevolvingUtilizationOfUnsecuredLinesyeo_trim',
+       'ageyeo_trim', 'NumberOfTime30-59DaysPastDueNotWorseyeo_trim',
+       'DebtRatioyeo_trim', 'NumberOfOpenCreditLinesAndLoansyeo_trim',
+       'NumberOfTimes90DaysLateyeo_trim',
+       'NumberRealEstateLoansOrLinesyeo_trim',
+       'NumberOfTime60-89DaysPastDueNotWorseyeo_trim',
+       'MonthlyIncome_replacedyeo_trim',
+       'NumberOfDependents_replacedyeo_trim'],
+      dtype='object') -> (120000, 11)
+2025-12-23 17:19:20,442 - INFO - Index(['NPA Statusyeo_trim', 'RevolvingUtilizationOfUnsecuredLinesyeo_trim',
+       'ageyeo_trim', 'NumberOfTime30-59DaysPastDueNotWorseyeo_trim',
+       'DebtRatioyeo_trim', 'NumberOfOpenCreditLinesAndLoansyeo_trim',
+       'NumberOfTimes90DaysLateyeo_trim',
+       'NumberRealEstateLoansOrLinesyeo_trim',
+       'NumberOfTime60-89DaysPastDueNotWorseyeo_trim',
+       'MonthlyIncome_replacedyeo_trim',
+       'NumberOfDependents_replacedyeo_trim'],
+      dtype='object') -> (30000, 11)
+2025-12-23 17:19:20,469 - INFO - coloumn we need to remove from quansi constant technique:Index(['NPA Statusyeo_trim', 'NumberOfTime30-59DaysPastDueNotWorseyeo_trim',
+       'NumberOfTimes90DaysLateyeo_trim',
+       'NumberOfTime60-89DaysPastDueNotWorseyeo_trim'],
+      dtype='object') 
+2025-12-23 17:19:20,499 - INFO - coloumn we need to remove from constant technique:Index(['RevolvingUtilizationOfUnsecuredLinesyeo_trim', 'NumberOfDependents_replacedyeo_trim'], dtype='object') 
+2025-12-23 17:19:20,508 - INFO - Index(['ageyeo_trim', 'DebtRatioyeo_trim',
+       'NumberOfOpenCreditLinesAndLoansyeo_trim',
+       'NumberRealEstateLoansOrLinesyeo_trim',
+       'MonthlyIncome_replacedyeo_trim'],
+      dtype='object') -> (120000, 5)
+2025-12-23 17:19:20,508 - INFO - Index(['ageyeo_trim', 'DebtRatioyeo_trim',
+       'NumberOfOpenCreditLinesAndLoansyeo_trim',
+       'NumberRealEstateLoansOrLinesyeo_trim',
+       'MonthlyIncome_replacedyeo_trim'],
+      dtype='object') -> (30000, 5)
+2025-12-23 17:19:20,514 - INFO - ['Good' 'Bad']
+2025-12-23 17:19:20,523 - INFO - [1 0]
+2025-12-23 17:19:20,911 - INFO - Index(['ageyeo_trim', 'NumberOfOpenCreditLinesAndLoansyeo_trim',
+       'NumberRealEstateLoansOrLinesyeo_trim',
+       'MonthlyIncome_replacedyeo_trim'],
+      dtype='object')->(120000, 4)
+2025-12-23 17:19:20,911 - INFO - Index(['ageyeo_trim', 'NumberOfOpenCreditLinesAndLoansyeo_trim',
+       'NumberRealEstateLoansOrLinesyeo_trim',
+       'MonthlyIncome_replacedyeo_trim'],
+      dtype='object')->(30000, 4)

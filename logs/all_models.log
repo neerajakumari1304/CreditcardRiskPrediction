@@ -1,0 +1,17 @@
+2025-12-23 17:19:21,651 - INFO - =========KNN===========
+2025-12-23 17:19:32,512 - INFO - KNN Test Accuracy : 0.8860333333333333
+2025-12-23 17:19:32,512 - INFO - =========NB===========
+2025-12-23 17:19:32,582 - INFO - Naive Bayes Test Accuracy : 0.9336666666666666
+2025-12-23 17:19:32,583 - INFO - =========LR===========
+2025-12-23 17:19:32,727 - INFO - LogisticRegression Test Accuracy : 0.9257
+2025-12-23 17:19:32,727 - INFO - =========DT===========
+2025-12-23 17:19:34,191 - INFO - DecisionTreeClassifier Test Accuracy : 0.8511333333333333
+2025-12-23 17:19:34,191 - INFO - =========RF===========
+2025-12-23 17:19:35,897 - INFO - RandomForestClassifier Test Accuracy : 0.8906
+2025-12-23 17:19:35,897 - INFO - =========Adabost===========
+2025-12-23 17:19:36,510 - INFO - AdaBoostClassifier Test Accuracy : 0.8931666666666667
+2025-12-23 17:19:36,510 - INFO - =========GB===========
+2025-12-23 17:19:38,950 - INFO - GradientBoostingClassifier Test Accuracy : 0.7967666666666666
+2025-12-23 17:19:38,950 - INFO - =========XGB===========
+2025-12-23 17:19:39,789 - INFO - XGBClassifier Test Accuracy : 0.6528
+2025-12-23 17:19:39,789 - INFO - =========svm===========
