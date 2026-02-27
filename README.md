@@ -4,7 +4,8 @@ Developed ML pipeline using Logistic Regression, KNN, Naive Bayes, Decision Tree
 ## 🚀 Project Overview
 The project implements a full ML lifecycle, including data cleaning, advanced feature engineering, handling class imbalance, model benchmarking, and deployment via a Flask web application.
 
-## 🛠 Project StructureThe project is modularized into several Python scripts, each handling a specific stage of the pipeline:
+## 🛠 Project Structure
+The project is modularized into several Python scripts, each handling a specific stage of the pipeline:
 
 **1. Data Ingestion & Preprocessing (main.py)**
 - Data Loading: Loads the initial dataset (150,002 rows) and performs initial cleaning.
